@@ -1,6 +1,5 @@
 import discord
 import pandas as pd
-import asyncio
 import os
 from dotenv import load_dotenv
 
